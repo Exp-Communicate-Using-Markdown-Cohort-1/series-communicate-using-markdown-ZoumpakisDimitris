@@ -17,6 +17,6 @@
 }
 ```
 
-- [] Learn C
-- [] Learn JS
-- [] Pass Calc1
+- [ ] Learn C
+- [ ] Learn JS
+- [ ] Pass Calc1
