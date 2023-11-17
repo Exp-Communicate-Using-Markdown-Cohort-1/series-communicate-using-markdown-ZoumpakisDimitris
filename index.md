@@ -16,3 +16,7 @@
 
 }
 ```
+
+- [] Learn C
+- [] Learn JS
+- [] Pass Calc1
